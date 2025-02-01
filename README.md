@@ -61,7 +61,7 @@ The project explores various machine learning models to predict energy consumpti
 | **Linear Regression**  | 0.330        | 0.271        |
 | **KNN**         | 0.365        | 0.231        |
 | **Decision Tree** | 0.255        | 0.389        |
-| **Random Forest** | 0.337        | 0.690        |
+| **Random Forest** | 0.141        | 0.690        |
 | **Boosting**      | 0.368        | 0.187        |
 
 ### **Key Insights**
